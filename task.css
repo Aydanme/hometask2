@@ -1,0 +1,5 @@
+table ,th ,td{
+    width: 30%;
+    height: 20px;
+    border: 1px solid black;
+}
