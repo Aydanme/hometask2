@@ -1,5 +1,9 @@
-table ,th ,td{
-    width: 30%;
+table {
+    
+    width: 100%;
     height: 20px;
+   
+}
+th,td{
     border: 1px solid black;
 }
