@@ -1,9 +1,11 @@
 table {
     
-    width: 100%;
+    width: 60%;
     height: 20px;
-   
+    
 }
 th,td{
     border: 1px solid black;
+   
+   
 }
